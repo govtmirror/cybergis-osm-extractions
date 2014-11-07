@@ -8,7 +8,7 @@ WS=osm-extracts
 AN=hiu
 AE='HIU_INFO@state.gov'
 TO=360
-RB=~/extractions/repos/iccm/mading
+RB=~/extractions/repos/iccm/mading/
 #===================#
 EXTENT='south_sudan:mading'
 #Raw Nodes and Ways
