@@ -17,7 +17,7 @@ REPO=$RB$RN
 rm -fr $REPO
 python $BIN/cybergis-script-geogig-osm-init.py  -v --path $REPO --name $RN --username $USER --password $PASS -gs $GS -ws $WS -to $TO --extent $EXTENT -an $AN -ae $AE --nodes --ways
 #----------#
-#Basic
+#Basic Buildings and Roads
 RN=baraka_basic
 REPO=$RB$RN
 MAPPING='basic:buildings_and_roads'
