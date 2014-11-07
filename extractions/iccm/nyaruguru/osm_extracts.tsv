@@ -1,0 +1,3 @@
+id	datastore	extent	mapping
+1	nyaruguru_raw	rwanda:nyaruguru	
+2	nyaruguru_basic	rwanda:nyaruguru	basic:buildings_and_roads
