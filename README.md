@@ -37,9 +37,13 @@ To learn how to create extracts check out the OSM Extracts CyberGIS Guide at [[l
 
 ### Extractions
 
-Below is a list of extractions.
+Below is a list of extractions by event.
 
-1. [Baraka](https://github.com/state-hiu/cybergis-osm-extractions/tree/master/extractions/baraka)
+The Missing Maps Project launch extractions are:
+
+1. [Baraka, DRC](https://github.com/state-hiu/cybergis-osm-extractions/tree/master/extractions/iccm/baraka)
+2. [Manding, South Sudan](https://github.com/state-hiu/cybergis-osm-extractions/tree/master/extractions/iccm/manding)
+3. [Nyaruguru, Rwanda](https://github.com/state-hiu/cybergis-osm-extractions/tree/master/extractions/iccm/nyaruguru)
 
 ## Contributing
 
