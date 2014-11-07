@@ -8,7 +8,7 @@ WS=osm-extracts
 AN=hiu
 AE='HIU_INFO@state.gov'
 TO=360
-RB=~/extractions/repos/iccm/baraka
+RB=~/extractions/repos/iccm/baraka/
 #===================#
 EXTENT='drc:baraka'
 #Raw Nodes and Ways
