@@ -8,7 +8,7 @@ WS=osm-extracts
 AN=hiu
 AE='HIU_INFO@state.gov'
 TO=360
-RB=~/extractions/repos/iccm/nyaruguru
+RB=~/extractions/repos/iccm/nyaruguru/
 #===================#
 EXTENT='rwanda:nyaruguru'
 #Raw Nodes and Ways
