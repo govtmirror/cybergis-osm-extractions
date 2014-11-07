@@ -1,0 +1,3 @@
+id	datastore	extent	mapping
+1	baraka_raw	drc:baraka	
+2	baraka_basic	drc:baraka	basic:buildings_and_roads
