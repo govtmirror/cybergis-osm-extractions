@@ -8,7 +8,7 @@ GS_PASS=geoserver
 #==#
 GS='http://localhost:8080/geoserver/'
 #==#
-PRJ='EPSG:4326'
+SRS='4326'
 #===================#
 #Customize Layers, bbox, width, and height for each Animation
 LAYERSA=( "A" "B" "C" )
@@ -19,4 +19,4 @@ WIDTH=<WIDTH>
 HEIGHT=<HEIGHT>
 #==#
 #===================#
-python $BIN/cybergis-script-geoserver-animate.py -gs $GS --layers "$LAYERS" --bbox "$BBOX" --width "$WIDTH" --height "$HEIGHT" --username $GS_USER --password $GS_PASS --url
+python $BIN/cybergis-script-geoserver-animate.py -gs $GS --layers "$LAYERS" --srs "$SRS" --bbox "$BBOX" --width "$WIDTH" --height "$HEIGHT" --username $GS_USER --password $GS_PASS --url
