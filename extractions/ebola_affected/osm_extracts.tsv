@@ -1,5 +1,5 @@
 id	datastore	extent	mapping
-1	ebola_affected_raw	west_africa:guinee,guine-bissau,liberia,sierra_leone.txt  
+1	ebola_affected_raw	west_africa:guinee,guine-bissau,liberia,sierra_leone.txt	
 2	ebola_affected_basic	west_africa:guinee,guine-bissau,liberia,sierra_leone.txt	basic:buildings_and_roads
 3	ebola_affected_placenames	west_africa:guinee,guine-bissau,liberia,sierra_leone.txt	placenames:placenames_consolidated
 4	ebola_affected_medicalcenters	west_africa:guinee,guine-bissau,liberia,sierra_leone.txt	health:medical_centers
