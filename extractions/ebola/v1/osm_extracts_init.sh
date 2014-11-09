@@ -24,10 +24,17 @@ MAPPING='basic:buildings_and_roads'
 rm -fr $REPO
 python $BIN/cybergis-script-geogig-osm-init.py  -v --path $REPO --name $RN --username $USER --password $PASS -gs $GS -ws $WS -to $TO --extent $EXTENT --mapping $MAPPING -an $AN -ae $AE
 #----------#
-#Basic Buildings and Roads
-RN=ebola_v1_basic
+#Placenames
+RN=ebola_v1_placenames
 REPO=$RB$RN
-MAPPING='basic:buildings_and_roads'
+MAPPING='placenames:placenames_consolidated'
 rm -fr $REPO
 python $BIN/cybergis-script-geogig-osm-init.py  -v --path $REPO --name $RN --username $USER --password $PASS -gs $GS -ws $WS -to $TO --extent $EXTENT --mapping $MAPPING -an $AN -ae $AE
-#===========i========#
+#----------#
+#Medical Centers
+RN=ebola_v1_medicalcenters
+REPO=$RB$RN
+MAPPING='health:medical_centers'
+rm -fr $REPO
+python $BIN/cybergis-script-geogig-osm-init.py  -v --path $REPO --name $RN --username $USER --password $PASS -gs $GS -ws $WS -to $TO --extent $EXTENT --mapping $MAPPING -an $AN -ae $AE
+#===================#
