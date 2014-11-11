@@ -1,0 +1,5 @@
+id	name	extent	mapping
+1	ebola_v2_raw	west_africa:guinee,guine-bissau,liberia,sierra_leone	
+2	ebola_v2_basic	west_africa:guinee,guine-bissau,liberia,sierra_leone	basic:buildings_and_roads
+3	ebola_v2_placenames	west_africa:guinee,guine-bissau,liberia,sierra_leone	placenames:placenames_consolidated
+4	ebola_v2_medicalcenters	west_africa:guinee,guine-bissau,liberia,sierra_leone	health:medical_centers
