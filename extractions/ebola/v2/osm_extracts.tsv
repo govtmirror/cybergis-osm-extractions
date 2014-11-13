@@ -1,5 +1,5 @@
 id	name	datastore	extents	mapping
-1	ebola_v2_raw	ebola_vs_raw	guinee:guinee;liberia:liberia;sierra_leone	
-2	ebola_v2_basic	ebola_vs_basic	guinee:guinee;liberia:liberia;sierra_leone	basic:buildings_and_roads
-3	ebola_v2_placenames	evola_v2_placenames	guinee:guinee;liberia:liberia;sierra_leone	placenames:placenames_consolidated
-4	ebola_v2_medicalcenters	ebola_v2_medicalcenters	guinee:guinee;liberia:liberia;sierra_leone	health:medical_centers
+1	ebola_v2_raw	ebola_vs_raw	guinea:guinea;liberia:liberia;sierra_leone	
+2	ebola_v2_basic	ebola_vs_basic	guinea:guinea;liberia:liberia;sierra_leone	basic:buildings_and_roads
+3	ebola_v2_placenames	evola_v2_placenames	guinea:guinea;liberia:liberia;sierra_leone	placenames:placenames_consolidated
+4	ebola_v2_medicalcenters	ebola_v2_medicalcenters	guinea:guinea;liberia:liberia;sierra_leone	health:medical_centers
