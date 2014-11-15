@@ -1,4 +1,4 @@
 id	name	datastore	extents	mapping
-1	osmgeoweek_colombo_raw	osmgeoweek_colombo_raw	osmgeoweek:colombo
+1	osmgeoweek_colombo_raw	osmgeoweek_colombo_raw	osmgeoweek:colombo	
 2	osmgeoweek_colombo_basic	osmgeoweek_colombo_basic	osmgeoweek:colombo	basic:buildings_and_roads
 3	osmgeoweek_colombo_landuse	osmgeoweek_colombo_landuse	osmgeoweek:colombo	landuse:landuse_all
