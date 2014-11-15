@@ -1,0 +1,4 @@
+id	name	datastore	extents	mapping
+1	osmgeoweek_philippines_raw	osmgeoweek_philippines_raw	osmgeoweek:philippines	
+2	osmgeoweek_philippines_basic	osmgeoweek_philippines_basic	osmgeoweek:philippines	basic:buildings_and_roads
+3	osmgeoweek_philippines_landuse	osmgeoweek_philippines_landuse	osmgeoweek:philippines	landuse:landuse_all
