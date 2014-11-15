@@ -20,7 +20,7 @@ WS=<Workspace>
 DS=<Data Store>
 #===================#
 #Raw (Nodes and Ways)
-PREFIX=osmgeoweek_colombo_raw
+PREFIX=osmgeoweek_guinea_2_raw
 LG=$PREFIX"_"$TIMESTAMP
 FTA=( $PREFIX"_node" $PREFIX"_way")
 SNAPA=()
@@ -40,7 +40,7 @@ STYLES=$(echo $STYLES | cut -c 2- )
 python $BIN/cybergis-script-geoserver-publish-layergroup.py -gs $GS -ws $WS -lg $LG --layers "$LAYERS" --styles "$STYLES" --username $GS_USER --password $GS_PASS
 #===================#
 #Basic (Buildings and Roads)
-PREFIX=osmgeoweek_colombo_basic
+PREFIX=osmgeoweek_guinea_2_basic
 LG=$PREFIX"_"$TIMESTAMP
 FTA=( $PREFIX"_osm_buildings" $PREFIX"_osm_roads" )
 SNAPA=()
