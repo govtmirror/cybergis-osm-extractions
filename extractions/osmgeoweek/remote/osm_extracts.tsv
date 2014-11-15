@@ -1,2 +1,2 @@
-id  name  datastore extents mapping
-1 osmgeoweek_raw  osmgeoweek_raw  osmgeoweek:colombo;osmgeoweek:kathmandu;osmgeoweek:khulna;osmgeoweek:nyamira;osmgeoweek:philippines
+id	name	datastore	extents	mapping
+1	osmgeoweek_raw	osmgeoweek_raw	osmgeoweek:colombo;osmgeoweek:kathmandu;osmgeoweek:khulna;osmgeoweek:nyamira;osmgeoweek:philippines
