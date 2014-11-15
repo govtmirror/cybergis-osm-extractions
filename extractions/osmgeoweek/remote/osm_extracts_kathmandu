@@ -1,0 +1,4 @@
+id	name	datastore	extents	mapping
+1	osmgeoweek_kathmandu_raw	osmgeoweek_kathmandu_raw	osmgeoweek:kathmandu	
+2	osmgeoweek_kathmandu_basic	osmgeoweek_kathmandu_basic	osmgeoweek:kathmandu	basic:buildings_and_roads
+3	osmgeoweek_kathmandu_landuse	osmgeoweek_kathmandu_landuse	osmgeoweek:kathmandu	landuse:landuse_all
