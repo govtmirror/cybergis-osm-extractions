@@ -1,4 +1,4 @@
 id	name	datastore	extents	mapping
-1	osmgeoweek_guinea_2_raw	osmgeoweek_guinea_1_raw	osmgeoweek:guinea_2	
-2	osmgeoweek_guinea_2_basic	osmgeoweek_guinea_1_basic	osmgeoweek:guinea_2	basic:buildings_and_roads
-3	osmgeoweek_guinea_2_landuse	osmgeoweek_guinea_1_landuse	osmgeoweek:guinea_2	landuse:landuse_all
+1	osmgeoweek_guinea_2_raw	osmgeoweek_guinea_2_raw	osmgeoweek:guinea_2	
+2	osmgeoweek_guinea_2_basic	osmgeoweek_guinea_2_basic	osmgeoweek:guinea_2	basic:buildings_and_roads
+3	osmgeoweek_guinea_2_landuse	osmgeoweek_guinea_2_landuse	osmgeoweek:guinea_2	landuse:landuse_all
