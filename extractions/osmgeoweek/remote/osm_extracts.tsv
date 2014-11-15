@@ -1,11 +1,2 @@
 id	name	datastore	extents	mapping
 1	osmgeoweek_raw	osmgeoweek_raw	osmgeoweek:colombo;osmgeoweek:kathmandu;osmgeoweek:khulna;osmgeoweek:nyamira;osmgeoweek:philippines
-2	osmgeoweek_basic	osmgeoweek_basic	osmgeoweek:colombo;osmgeoweek:kathmandu;osmgeoweek:khulna;osmgeoweek:nyamira;osmgeoweek:philippines	basic:buildings_and_roads
-2	osmgeoweek_basic	osmgeoweek_basic	osmgeoweek:colombo;osmgeoweek:kathmandu;osmgeoweek:khulna;osmgeoweek:nyamira;osmgeoweek:philippines	basic:buildings_and_roads
-2	osmgeoweek_basic	osmgeoweek_basic	osmgeoweek:colombo;osmgeoweek:kathmandu;osmgeoweek:khulna;osmgeoweek:nyamira;osmgeoweek:philippines	basic:buildings_and_roads
-
-
-
-
-
-3	ebola_v2_placenames	evola_v2_placenames	guinea:guinea;liberia:liberia;sierra_leone:sierra_leone	landuse:landuse_all
