@@ -1,0 +1,4 @@
+id	name	datastore	extents	mapping
+1	osmgeoweek_nyamira_raw	osmgeoweek_nyamira_raw	osmgeoweek:nyamira	
+2	osmgeoweek_nyamira_basic	osmgeoweek_nyamira_basic	osmgeoweek:nyamira	basic:buildings_and_roads
+3	osmgeoweek_nyamira_landuse	osmgeoweek_nyamira_landuse	osmgeoweek:nyamira	landuse:landuse_all
