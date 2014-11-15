@@ -1,4 +1,4 @@
 id	name	datastore	extents	mapping
 1	osmgeoweek_khulna_raw	osmgeoweek_khulna_raw	osmgeoweek:khulna	
 2	osmgeoweek_khulna_basic	osmgeoweek_khulna_basic	osmgeoweek:khulna	basic:buildings_and_roads
-3	osmgeoweek_khulna_landuse	osmgeoweek_khulnau_landuse	osmgeoweek:khulna	landuse:landuse_all
+3	osmgeoweek_khulna_landuse	osmgeoweek_khulna_landuse	osmgeoweek:khulna	landuse:landuse_all
