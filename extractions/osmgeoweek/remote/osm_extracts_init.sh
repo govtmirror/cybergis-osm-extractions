@@ -7,7 +7,7 @@ GS='http://localhost:8080/geoserver/'
 WS=osmgeoweek-extracts
 AN=hiu
 AE='HIU_INFO@state.gov'
-TO=360
+TO=840
 RB=~/extractions/repos/osmgeoweek/remote/
 #===================#
 EXTRACTS=osm_extracts_colombo.tsv
