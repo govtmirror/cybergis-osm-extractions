@@ -1,5 +1,9 @@
 #!/bin/bash
+
+#Update
 bash ./osm_extracts_update.sh
+
+#Snapshot
 bash ./osm_extracts_snapshot_colombo.sh
 bash ./osm_extracts_snapshot_guinea_1.sh
 bash ./osm_extracts_snapshot_guinea_2.sh
