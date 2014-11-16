@@ -9,24 +9,24 @@ AN=hiu
 AE='HIU_INFO@state.gov'
 TO=840
 #===================#
-EXTRACTS=osm_extracts_colombo.tsv
+EXTRACTS='extracts/osm_extracts_colombo.tsv'
 $BIN/cybergis-script-geogig-osm-sync.py false -v -gs $GS -ws $WS --username $USER --password $PASS -an $AN -ae $AE -to $TO --extracts $EXTRACTS
 #==#
-EXTRACTS=osm_extracts_guinea_1.tsv
+EXTRACTS='extracts/osm_extracts_guinea_1.tsv'
 $BIN/cybergis-script-geogig-osm-sync.py false -v -gs $GS -ws $WS --username $USER --password $PASS -an $AN -ae $AE -to $TO --extracts $EXTRACTS
 #==#
-EXTRACTS=osm_extracts_guinea_2.tsv
+EXTRACTS='extracts/osm_extracts_guinea_2.tsv'
 $BIN/cybergis-script-geogig-osm-sync.py false -v -gs $GS -ws $WS --username $USER --password $PASS -an $AN -ae $AE -to $TO --extracts $EXTRACTS
 #==#
-EXTRACTS=osm_extracts_kathmandu.tsv
+EXTRACTS='extracts/osm_extracts_kathmandu.tsv'
 $BIN/cybergis-script-geogig-osm-sync.py false -v -gs $GS -ws $WS --username $USER --password $PASS -an $AN -ae $AE -to $TO --extracts $EXTRACTS
 #==#
-EXTRACTS=osm_extracts_khulna.tsv
+EXTRACTS='extracts/osm_extracts_khulna.tsv'
 $BIN/cybergis-script-geogig-osm-sync.py false -v -gs $GS -ws $WS --username $USER --password $PASS -an $AN -ae $AE -to $TO --extracts $EXTRACTS
 #==#
-EXTRACTS=osm_extracts_nyamira.tsv
+EXTRACTS='extracts/osm_extracts_nyamira.tsv'
 $BIN/cybergis-script-geogig-osm-sync.py false -v -gs $GS -ws $WS --username $USER --password $PASS -an $AN -ae $AE -to $TO --extracts $EXTRACTS
 #==#
-EXTRACTS=osm_extracts_philippines.tsv
+EXTRACTS='extracts/osm_extracts_philippines.tsv'
 $BIN/cybergis-script-geogig-osm-sync.py false -v -gs $GS -ws $WS --username $USER --password $PASS -an $AN -ae $AE -to $TO --extracts $EXTRACTS
 #==#
